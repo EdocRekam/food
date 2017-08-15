@@ -7,8 +7,8 @@ This is still an experimental recipe.
 - 115g Butter
 - 300g Low protein flour
 - 240g Buttermilk
-- ? Baking Soda
-- ? Baking Powder
+- 1 Tablespoon Baking Powder
+- 1 Teaspoon Salt
 
 ### Directions
 
