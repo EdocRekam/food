@@ -1,12 +1,13 @@
 # Buttermilk Cornbread
 
-Never tried this
+Lots and Lots of calories around 2400, but delicious. I tried this
+for the first time in August 2017.
 
 ### Ingredients
 
  - 150g Cornmeal
  - 50g Cup Flour
- - 100g Sugar
+ - 80g Sugar
  - 1/2 Teaspoon Baking Powder
  - 1/2 Teaspoon Salt
  - 1 Eggs
@@ -30,3 +31,6 @@ Never tried this
 
   - Flour makes it cake-like. Avoid. Add more cornmeal if you want to
     thicken it.
+
+  - The original recipe called for 100g sugar, but it was too sweet, almost
+    cake like. I reduced it to 80g.
