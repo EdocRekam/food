@@ -1,40 +1,50 @@
 # Cinnamon Rolls
 
-From Chef John
+From Chef John. Ingredients for 8 cinnamon rolls. Experimental
 
 ### Ingredients
 
 **Dough**
- - 1 package of dry yeast
- - 1/4 cup very warm water (about 100-105 degrees F.)
- - 1/2 tsp white sugar
- - 1/2 cup pure pumpkin puree (not pumpkin pie filling)
- - 1/4 cup heavy cream (can sub milk, but cream is better)
- - 1 tsp fine salt
- - 1/4 cup melted butter
- - 1/2 tsp vanilla extract
- - 3/4 tsp pumpkin pie spice (or 1/2 tsp ground ginger and 1/4 tsp allspice)
- - 1 large egg
- - 1/4 cup granulated sugar
- - 3 to 4 cups all purpose flour (divided), as needed
- -  (add enough flour to mixer so that dough just barely pulls away from sides, and a very soft, slightly sticky dough is formed)
- - *knead for at least 6-7 minutes
+ - 1/2 package fresh yeast
+ - 1/2 teaspoon salt
+ - 1/4 teaspoon sugar
+ - 1/4 teaspoon vanilla
+ - 1/4 teaspoon ground ginger
+ - 1/8 teaspoon allspice
+ - 1 small egg
+ - 15g Sugar
+ - 30g Warm Water 38C
+ - 30g Cream
+ - 30g Melted butter
+ - 90g Pumpkin Puree
+ - 200g Flour
 
 **Filling**
- - 5 tbsp melted butter, brushed on rolled dough
- - 3/4 cup packed brown sugar
- - 1/4 cup of granulated sugar
- - 2 tbsp ground cinnamon
+ - 1 tablespoon ground cinnamon
+ - Butter to brush on dough
+ - 45g brown sugar
+ - 15g sugar
+ - Raisins
 
 **Glaze**
-1/4 cup room temperature cream cheese
-1 cup powdered sugar
-1/4 cup milk, or as needed
-1/4 tsp vanilla extract, optional
-*adjust glaze by adding more powdered sugar or milk to achieve desired consistency
-1/4 cup toasted pumpkin seeds to garnish
+ - Cream cheese
+ - Powdered sugar
+ - Milk
+ - Vanilla
 
 ### Directions
- Ingredients for 16 Pumpkin Cinnamon Rolls:
-(I used a deep 13 x 9 baking dish)
-Bake at 350 degrees F. for 30 minutes
+
+ 1. Activate the yeast
+ 2. Combine all doug ingredients and knead
+ 3. Roll out dough
+ 4. Sprinkle on filling
+ 5. Roll up and cut into rolls
+ 6. Bake at 180C for 30 minutes
+
+### Notes
+
+  - Add enough flour to mixer so that dough just barely pulls away from sides,
+    and a very soft, slightly sticky dough is formed.
+
+  - Adjust glaze by adding more powdered sugar or milk to achieve desired
+    consistency.
