@@ -22,8 +22,8 @@ of ten.
 
 **Layer Three**
 
-- 130g Peanut Butter (chunky or creamy)
-- 0.5  Can Condensed Milk
+- 200g Can Condensed Milk
+-  85g Peanut Butter (chunky or creamy)
 
 ### Directions
 
@@ -34,8 +34,5 @@ of ten.
    up and most of the top surface of the cookie has set.
 
 ### Notes
-
-We threw out the condensed milk can so we do not know the exact amount yet.
-Take measurements the next time you make this recipe.
 
 Original: https://www.averiecooks.com/2012/10/chocolate-chip-peanut-butter-oatmeal-skillet-cookie.html
