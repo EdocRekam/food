@@ -1,12 +1,13 @@
 # Ramen Eggs - Soft Boiled
 
-This recipe was found on YouTube and this is the first time trying it. Makes 4 or 5 eggs.
+This recipe was found on YouTube, May 2018 and this is the first time trying it.
+Makes 4 or 5 eggs.
 
 ### Marinade ###
 
- - 100g Cup Soy Sauce
- - 100g Cup Mirin 
- - 400g Cup Dashi Broth
+ - 100g Soy Sauce
+ - 100g Mirin 
+ - 400g Dashi Broth
 
 Combine all the sauce ingredients, reduce and cool.
 
