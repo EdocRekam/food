@@ -7,14 +7,13 @@ for the first time in August 2017.
 
  - 150g Cornmeal
  - 50g Cup Flour
- - 80g Sugar
+ - 30g Sugar
  - 1/2 Teaspoon Baking Powder
  - 1/2 Teaspoon Salt
  - 1 Eggs
  - 60g Butter
- - 75g Vegetable Oil
- - 1.5 Tablespoons Honey
- - 163g Buttermilk
+ - 70g Vegetable Oil
+ - 150g Milk
 
  ### Directions
   1. Combine dry ingredients
@@ -33,4 +32,4 @@ for the first time in August 2017.
     thicken it.
 
   - The original recipe called for 100g sugar, but it was too sweet, almost
-    cake like. I reduced it to 80g.
+    cake like. I reduced it to 30g.

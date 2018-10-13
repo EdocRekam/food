@@ -4,13 +4,13 @@ First try Oct 2018
 
 ### Ingredients ###
 
-- 192g Flour
-- 3.5 Teaspoon Baking Powder
+- 190g Flour
+- 15ml Baking Powder (1 Packet)
 - 1.0 Tablespoon Sugar
-- 0.5 Teaspoon Salt
-- 0.5 Teaspoon Cinnamon
-- 340g Milk
-- 3.0 Tablespoon Melted Butter
+- 0.25 Teaspoon Salt
+- 0.5 Teaspoon/Stick Cinnamon
+- 300g Milk
+- 45g Tablespoon Melted Butter
 - 1.0 Egg
 
 ### Notes ###
