@@ -26,3 +26,5 @@ Had these twice in December 2018 - Delicious!
 
 You can use either hazelnuts or almonds. If you use almonds make sure they are
 not blanched.
+
+Add a pan of water to the oven to keep cookies from turning brown to fast.
